@@ -45,7 +45,7 @@ Ensure you have **Node.js** (v18 or higher) and **npm** installed.
 3. Set up environment variables:
    Create a `.env` file in the root directory:
    ```env
-   VITE_API_URL=http://localhost:5000/api
+   VITE_API_URL=https://quickdine-nk07.onrender.com/api
    ```
 
 ### Development Server
